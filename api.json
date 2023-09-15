@@ -11,5 +11,5 @@
     { "name": "Illayaraja FM", "url": "https://southradios.net/play/ilayarajaradio", "icon": "../../assets/images/ilayaraja.jpg", "volumeBoost": 0, "isLive": true },
     { "name": "Thala Thalapathy FM", "url": "https://southradios.net/play/thalathalapathyradio", "icon": "../../assets/images/thala-thalapathy.jpg", "volumeBoost": 0, "isLive": true },
     { "name": "Harrish Jayaraj FM", "url": "https://southradios.net/play/harrishjeyarajradio", "icon": "../../assets/images/harrish-jayaraj.jpg", "volumeBoost": 0, "isLive": true },
-    { "name": "SPB Radio", "url": "https://stream.zeno.fm/w2r2z0x547zuv", "icon": "../../assets/images/spb-fm.jpg", "volumeBoost": 0, "isLive": true },
+    { "name": "SPB Radio", "url": "https://stream.zeno.fm/w2r2z0x547zuv", "icon": "../../assets/images/spb-fm.jpg", "volumeBoost": 0, "isLive": true }
 ]
